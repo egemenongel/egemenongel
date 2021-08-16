@@ -11,5 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages & Tools:
 
-<img align = "center" width = "50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg"><img align = "center" width = "32px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg"><img align = "center" width = "45px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"> 
-<img align = "center" width = "42px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"><img align = "center" width = "35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### Contact:
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)()
+[![Instagram](https://img.shields.io/badge/<egemenongel>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/egemenongel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](egemenongel@hotmail.com)
