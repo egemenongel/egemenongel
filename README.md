@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)()
 [![Instagram](https://img.shields.io/badge/<egemenongel>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/egemenongel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](egemenongel@hotmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egemenongel@hotmail.com)
