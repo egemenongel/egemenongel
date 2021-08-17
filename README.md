@@ -13,6 +13,10 @@
 
 ### Contact:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemen-%C3%B6ngel-82626613a/)
 [![Instagram](https://img.shields.io/badge/<egemenongel>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/egemenongel)
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemen-%C3%B6ngel-82626613a/)
+
+
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egemenongel@hotmail.com)
