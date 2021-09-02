@@ -1,4 +1,3 @@
-- Hi, I’m a Frontend Developer
 
 ### Languages & Tools:
 
